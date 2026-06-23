@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/slf4j-api-2.0.13.jar lib/logback-classic-1.5.6.jar lib/l
+ ogback-core-1.5.6.jar lib/json-20250517.jar lib/jlayer-1.0.1.jar lib/lw
+ jgl-3.3.6.jar lib/lwjgl-assimp-3.3.6.jar lib/lwjgl-fmod-3.3.6.jar lib/l
+ wjgl-glfw-3.3.6.jar lib/lwjgl-openal-3.3.6.jar lib/lwjgl-opencl-3.3.6.j
+ ar lib/lwjgl-stb-3.3.6.jar lib/lwjgl-3.3.6-natives-windows.jar lib/lwjg
+ l-assimp-3.3.6-natives-windows.jar lib/lwjgl-glfw-3.3.6-natives-windows
+ .jar lib/lwjgl-opengl-3.3.6.jar lib/lwjgl-opengl-3.3.6-natives-windows.
+ jar lib/lwjgl-openal-3.3.6-natives-windows.jar lib/lwjgl-stb-3.3.6-nati
+ ves-windows.jar lib/joml-1.10.8.jar
+Main-Class: WS3000.weatherstar3000.Main
+Created-By: Maven Integration for Eclipse
+
