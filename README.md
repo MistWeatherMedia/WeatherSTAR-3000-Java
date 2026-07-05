@@ -8,7 +8,7 @@ Need support beyond the scope of this README? Have any questions? Feel free to j
 [***mist weather media*** on Discord](https://discord.gg/hV2w5sZQxz)
 
 ## Installation Instructions:
-1. Download & Install [Java](https://www.java.com/en/download/manual.jsp)
+1. Download & Install [Java](https://www.java.com/en/download/manual.jsp) (if not already installed)
 2. Run presentaton.jar
 3. Locate an api.weather.com API key and configure your settings, then run!
 
