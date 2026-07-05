@@ -29,3 +29,5 @@ Need support beyond the scope of this README? Have any questions? Feel free to j
 Enjoy the nostalgia! You're all set.
 
 Many thanks for using our simulator! We hope you like it.
+
+Please report any issues found, both known and unknown by developers
