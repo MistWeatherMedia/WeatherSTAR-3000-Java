@@ -1,5 +1,5 @@
-# Weather Star 3000 Simulator
-Weather Star 3000 emulation in Java by Joe Molinelli/Mist Weather Media
+# WeatherSTAR 3000 Simulator
+WeatherSTAR 3000 simulator in Java by Joe Molinelli/Mist Weather Media
 
 Compatibility not guaranteed outside of Windows 11
 
