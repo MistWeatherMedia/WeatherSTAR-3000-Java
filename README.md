@@ -7,6 +7,8 @@ Compatibility not guaranteed outside of Windows 11
 
 Need support beyond the scope of this README? Have any questions? Feel free to join our Discord for support!
 
+Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Requests tab!
+
 [***mist weather media*** on Discord](https://discord.gg/hV2w5sZQxz)
 
 ## Installation Instructions (JAR):
