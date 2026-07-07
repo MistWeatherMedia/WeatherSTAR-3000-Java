@@ -6,7 +6,7 @@ Compatibility not guaranteed outside of Windows 11
 ------------
 
 previews
-/screenshots/settings2.png
+![Settings](/screenshots/settings2.png)
 ------------
 
 Need support beyond the scope of this README? Have any questions? Feel free to join our Discord for support!
