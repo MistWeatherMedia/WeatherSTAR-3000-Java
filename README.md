@@ -4,8 +4,10 @@ WeatherSTAR 3000 simulator in Java by Joe Molinelli/Mist Weather Media
 Compatibility not guaranteed outside of Windows 11
 
 ------------
-![Settings](/screenshots/settings2.png) ![Settings](/screenshots/currentconditions.png)
-
+![Current Conditions](/screenshots/currentconditions.png)
+![Extended Forecast](/screenshots/extendedforecast.png)
+![Travel Forecast](/screenshots/travelforecast.png)
+![Bulletin](/screenshots/bulletin.png)
 ------------
 
 Need support beyond the scope of this README? Have any questions? Feel free to join our Discord for support!
