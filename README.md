@@ -5,9 +5,6 @@ Compatibility not guaranteed outside of Windows 11
 
 ------------
 ![Current Conditions](/screenshots/currentconditions.png)
-![Extended Forecast](/screenshots/extendedforecast.png)
-![Travel Forecast](/screenshots/travelforecast.png)
-![Bulletin](/screenshots/bulletin.png)
 ------------
 
 Need support beyond the scope of this README? Have any questions? Feel free to join our Discord for support!
