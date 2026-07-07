@@ -7,11 +7,9 @@ Compatibility not guaranteed outside of Windows 11
 ![Current Conditions](/screenshots/currentconditions.png)
 ------------
 
-Need support beyond the scope of this README? Have any questions? Feel free to join our Discord for support!
+Need support beyond the scope of this README? Have any questions? Feel free to join [***mist weather media*** on Discord](https://discord.gg/hV2w5sZQxz) for support!
 
 Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Requests tab!
-
-[***mist weather media*** on Discord](https://discord.gg/hV2w5sZQxz)
 
 ## Installation Instructions (JAR):
 1. Download & Install [Java](https://www.java.com/en/download/manual.jsp) if not already installed
