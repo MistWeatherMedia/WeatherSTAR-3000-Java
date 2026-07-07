@@ -30,7 +30,7 @@ Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Reques
 
 ------------
 
-Enjoy the nostalgia! You're all set.
+You're all set.
 
 Many thanks for using our simulator! We hope you like it.
 
