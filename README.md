@@ -1,7 +1,7 @@
 # WeatherSTAR 3000 Simulator
 WeatherSTAR 3000 Simulator in Java by Joe Molinelli/Mist Weather Media
 
-Compatibility not guaranteed outside of Windows 11
+Compatibility not guaranteed outside of Windows 11 with Java 25
 
 ------------
 ![Current Conditions](/screenshots/currentconditions.png)
