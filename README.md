@@ -14,7 +14,7 @@ Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Reques
 Either of the following methods can be used:
 
 ## Installation Instructions (JAR):
-1. Download & Install [Java]([https://www.java.com/en/download/manual.jsp](https://www.oracle.com/java/technologies/downloads/)) if not already installed
+1. Download & Install [Java](https://www.oracle.com/java/technologies/downloads/) if not already installed
 2. Download the [latest release](https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java/releases) .zip file and extract
 3. Run the included .jar file
 4. Locate an api.weather.com API key and configure your settings, then run!
