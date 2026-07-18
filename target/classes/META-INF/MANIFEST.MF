@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/slf4j-api-2.0.13.jar lib/logback-classic-1.5.6.jar lib/l
+ ogback-core-1.5.6.jar lib/json-20250517.jar lib/jlayer-1.0.1.jar lib/lw
+ jgl-3.3.6.jar lib/lwjgl-assimp-3.3.6.jar lib/lwjgl-fmod-3.3.6.jar lib/l
+ wjgl-glfw-3.3.6.jar lib/lwjgl-openal-3.3.6.jar lib/lwjgl-opencl-3.3.6.j
+ ar lib/lwjgl-stb-3.3.6.jar lib/lwjgl-3.3.6-natives-freebsd.jar lib/lwjg
+ l-3.3.6-natives-linux.jar lib/lwjgl-3.3.6-natives-linux-arm64.jar lib/l
+ wjgl-3.3.6-natives-linux-arm32.jar lib/lwjgl-3.3.6-natives-linux-ppc64l
+ e.jar lib/lwjgl-3.3.6-natives-linux-riscv64.jar lib/lwjgl-3.3.6-natives
+ -macos.jar lib/lwjgl-3.3.6-natives-macos-arm64.jar lib/lwjgl-3.3.6-nati
+ ves-windows.jar lib/lwjgl-3.3.6-natives-windows-x86.jar lib/lwjgl-3.3.6
+ -natives-windows-arm64.jar lib/lwjgl-assimp-3.3.6-natives-freebsd.jar l
+ ib/lwjgl-assimp-3.3.6-natives-linux.jar lib/lwjgl-assimp-3.3.6-natives-
+ linux-arm64.jar lib/lwjgl-assimp-3.3.6-natives-linux-arm32.jar lib/lwjg
+ l-assimp-3.3.6-natives-linux-ppc64le.jar lib/lwjgl-assimp-3.3.6-natives
+ -linux-riscv64.jar lib/lwjgl-assimp-3.3.6-natives-macos.jar lib/lwjgl-a
+ ssimp-3.3.6-natives-macos-arm64.jar lib/lwjgl-assimp-3.3.6-natives-wind
+ ows.jar lib/lwjgl-assimp-3.3.6-natives-windows-x86.jar lib/lwjgl-assimp
+ -3.3.6-natives-windows-arm64.jar lib/lwjgl-glfw-3.3.6-natives-freebsd.j
+ ar lib/lwjgl-glfw-3.3.6-natives-linux.jar lib/lwjgl-glfw-3.3.6-natives-
+ linux-arm64.jar lib/lwjgl-glfw-3.3.6-natives-linux-arm32.jar lib/lwjgl-
+ glfw-3.3.6-natives-linux-ppc64le.jar lib/lwjgl-glfw-3.3.6-natives-linux
+ -riscv64.jar lib/lwjgl-glfw-3.3.6-natives-macos.jar lib/lwjgl-glfw-3.3.
+ 6-natives-macos-arm64.jar lib/lwjgl-glfw-3.3.6-natives-windows.jar lib/
+ lwjgl-glfw-3.3.6-natives-windows-x86.jar lib/lwjgl-glfw-3.3.6-natives-w
+ indows-arm64.jar lib/lwjgl-opengl-3.3.6.jar lib/lwjgl-opengl-3.3.6-nati
+ ves-freebsd.jar lib/lwjgl-opengl-3.3.6-natives-linux.jar lib/lwjgl-open
+ gl-3.3.6-natives-linux-arm64.jar lib/lwjgl-opengl-3.3.6-natives-linux-a
+ rm32.jar lib/lwjgl-opengl-3.3.6-natives-linux-ppc64le.jar lib/lwjgl-ope
+ ngl-3.3.6-natives-linux-riscv64.jar lib/lwjgl-opengl-3.3.6-natives-maco
+ s.jar lib/lwjgl-opengl-3.3.6-natives-macos-arm64.jar lib/lwjgl-opengl-3
+ .3.6-natives-windows.jar lib/lwjgl-opengl-3.3.6-natives-windows-x86.jar
+  lib/lwjgl-opengl-3.3.6-natives-windows-arm64.jar lib/lwjgl-openal-3.3.
+ 6-natives-freebsd.jar lib/lwjgl-openal-3.3.6-natives-linux.jar lib/lwjg
+ l-openal-3.3.6-natives-linux-arm64.jar lib/lwjgl-openal-3.3.6-natives-l
+ inux-arm32.jar lib/lwjgl-openal-3.3.6-natives-linux-ppc64le.jar lib/lwj
+ gl-openal-3.3.6-natives-linux-riscv64.jar lib/lwjgl-openal-3.3.6-native
+ s-macos.jar lib/lwjgl-openal-3.3.6-natives-macos-arm64.jar lib/lwjgl-op
+ enal-3.3.6-natives-windows.jar lib/lwjgl-openal-3.3.6-natives-windows-x
+ 86.jar lib/lwjgl-openal-3.3.6-natives-windows-arm64.jar lib/lwjgl-stb-3
+ .3.6-natives-freebsd.jar lib/lwjgl-stb-3.3.6-natives-linux.jar lib/lwjg
+ l-stb-3.3.6-natives-linux-arm64.jar lib/lwjgl-stb-3.3.6-natives-linux-a
+ rm32.jar lib/lwjgl-stb-3.3.6-natives-linux-ppc64le.jar lib/lwjgl-stb-3.
+ 3.6-natives-linux-riscv64.jar lib/lwjgl-stb-3.3.6-natives-macos.jar lib
+ /lwjgl-stb-3.3.6-natives-macos-arm64.jar lib/lwjgl-stb-3.3.6-natives-wi
+ ndows.jar lib/lwjgl-stb-3.3.6-natives-windows-x86.jar lib/lwjgl-stb-3.3
+ .6-natives-windows-arm64.jar lib/joml-1.10.8.jar
+Main-Class: WS3000.weatherstar3000.Main
+Created-By: Maven Integration for Eclipse
+
