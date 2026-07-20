@@ -22,7 +22,7 @@ Either of the following methods can be used:
 
 ------------
 
-## Installation Instructions (EXE):
+## Installation Instructions (EXE): NOT IN USE RIGHT NOW
 1. Download and run the [latest release](https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java/releases) .exe installer file
 2. Locate the installed program and run it.
 3. Locate an api.weather.com API key and configure your settings, then run!
