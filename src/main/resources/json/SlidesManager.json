@@ -1,0 +1,129 @@
+{
+    "A": [
+        {"segment":"currentConditions", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"hourlyObservations", "duration": 600.0}
+    ],
+    "B": [
+        {"segment":"hourlyObservations", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0},
+        {"segment":"extendedForecast", "duration": 1200.0},
+        {"segment":"regionalConditions", "duration": 600.0}
+    ],
+    "C": [
+        {"segment":"regionalConditions", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"regionalForecast", "duration": 600.0}
+    ],
+    "D": [
+        {"segment":"hourlyObservations", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"regionalConditions", "duration": 600.0}
+    ],
+    "E": [
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"extendedForecast", "duration": 1200.0},
+        {"segment":"hourlyObservations", "duration": 600.0}
+    ],
+    "F": [
+        {"segment":"currentConditions", "duration": 600.0},
+        {"segment":"regionalConditions", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0}
+    ],
+    "G": [
+        {"segment":"localForecast", "duration": 600.0}
+    ],
+    "H": [
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"regionalForecast", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0},
+        {"segment":"hourlyObservations", "duration": 600.0}
+    ],
+    "I": [
+        {"segment":"currentConditions", "duration": 600.0},
+        {"segment":"hourlyObservations", "duration": 600.0},
+        {"segment":"regionalConditions", "duration": 600.0}
+    ],
+    "J": [
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"hourlyObservations", "duration": 720.0},
+        {"segment":"regionalConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"almanac", "duration": 720.0},
+        {"segment":"regionalForecast", "duration": 720.0},
+        {"segment":"travelForecast", "duration": 2880.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"outlook", "duration": 720.0}
+    ],
+    "K": [
+        {"segment":"currentConditions", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0},
+        {"segment":"regionalForecast", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"extendedForecast", "duration": 1200.0},
+        {"segment":"hourlyObservations", "duration": 600.0}
+    ],
+    "L": [
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"hourlyObservations", "duration": 720.0},
+        {"segment":"regionalConditions", "duration": 720.0},
+        {"segment":"regionalForecast", "duration": 720.0},
+        {"segment":"almanac", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"extendedForecast", "duration": 1440.0}
+    ],
+    "M": [
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"travelForecast", "duration": 2880.0}
+    ],
+    "N": [
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"hourlyObservations", "duration": 720.0},
+        {"segment":"regionalConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"almanac", "duration": 720.0},
+        {"segment":"regionalForecast", "duration": 720.0},
+        {"segment":"travelForecast", "duration": 2880.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"outlook", "duration": 720.0},
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"travelForecast", "duration": 2880.0}
+    ],
+    "O": [
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"hourlyObservations", "duration": 720.0},
+        {"segment":"regionalConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"almanac", "duration": 720.0},
+        {"segment":"regionalForecast", "duration": 720.0},
+        {"segment":"travelForecast", "duration": 2880.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"outlook", "duration": 720.0},
+        {"segment":"currentConditions", "duration": 720.0},
+        {"segment":"hourlyObservations", "duration": 720.0},
+        {"segment":"regionalConditions", "duration": 720.0},
+        {"segment":"localForecast", "duration": 720.0},
+        {"segment":"almanac", "duration": 720.0},
+        {"segment":"regionalForecast", "duration": 720.0},
+        {"segment":"travelForecast", "duration": 2880.0},
+        {"segment":"extendedForecast", "duration": 1440.0},
+        {"segment":"outlook", "duration": 720.0}
+    ],
+    "P": [
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"extendedForecast", "duration": 1200.0},
+        {"segment":"currentConditions", "duration": 600.0}
+    ],
+    "Q": [
+        {"segment":"currentConditions", "duration": 600.0},
+        {"segment":"almanac", "duration": 600.0},
+        {"segment":"localForecast", "duration": 600.0},
+        {"segment":"regionalConditions", "duration": 600.0}
+    ]
+}
