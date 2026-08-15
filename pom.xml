@@ -5,7 +5,7 @@
 
   <groupId>WS3000</groupId>
   <artifactId>weatherstar3000</artifactId>
-  <version>1.6.0</version>
+  <version>1.7.0</version>
 
   <name>weatherstar3000</name>
   <url>https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java</url>
@@ -586,6 +586,12 @@
       <artifactId>joml</artifactId>
       <version>${joml.version}</version>
     </dependency>
+    
+    <dependency>
+    	<groupId>org.locationtech.jts</groupId>
+    	<artifactId>jts-core</artifactId>
+    	<version>1.19.0</version>
+	</dependency>
   </dependencies>
 
   <build>
