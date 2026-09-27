@@ -5,7 +5,7 @@
 
   <groupId>WS3000</groupId>
   <artifactId>weatherstar3000</artifactId>
-  <version>1.7.0</version>
+  <version>1.8.0</version>
 
   <name>weatherstar3000</name>
   <url>https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java</url>
@@ -186,25 +186,15 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>slf4j-api</artifactId>
-      <version>2.0.13</version>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>5.10.2</version> 
+        <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>ch.qos.logback</groupId>
-      <artifactId>logback-classic</artifactId>
-      <version>1.5.6</version>
-    </dependency>
-    <dependency>
-      <groupId>org.junit.jupiter</groupId>
-      <artifactId>junit-jupiter-api</artifactId>
-      <version>6.1.0-M1</version>
-      <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20250517</version>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20231013</version>
     </dependency>
     <dependency>
       <groupId>javazoom</groupId>
@@ -592,6 +582,13 @@
     	<artifactId>jts-core</artifactId>
     	<version>1.19.0</version>
 	</dependency>
+	
+	<dependency>
+    	<groupId>com.squareup.okhttp3</groupId>
+    	<artifactId>okhttp-jvm</artifactId>
+    	<version>5.5.0</version>
+	</dependency>
+
   </dependencies>
 
   <build>
