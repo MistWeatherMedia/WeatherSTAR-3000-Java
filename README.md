@@ -1,7 +1,7 @@
 # WeatherSTAR 3000 Simulator
 WeatherSTAR 3000 Simulator in Java by Joe Molinelli/Mist Weather Media
 
-Compatible with Java 25+
+Compatible with Java 8+
 
 ------------
 ![Current Conditions](/screenshots/currentconditions.png)
