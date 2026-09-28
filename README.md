@@ -11,8 +11,6 @@ Need support beyond the scope of this README? Have any questions? Feel free to j
 
 Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Requests tab!
 
-Either of the following methods can be used:
-
 ## Installation Instructions:
 1. Download & Install [Java](https://www.oracle.com/java/technologies/downloads/) if not already installed
 2. Download the [latest release](https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java/releases) .zip file and extract
