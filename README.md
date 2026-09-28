@@ -13,20 +13,12 @@ Suggestions? Fixes you want to propose? Submit a Pull Request in the Pull Reques
 
 Either of the following methods can be used:
 
-## Installation Instructions (JAR):
+## Installation Instructions:
 1. Download & Install [Java](https://www.oracle.com/java/technologies/downloads/) if not already installed
 2. Download the [latest release](https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java/releases) .zip file and extract
 3. Run the included .jar file
 4. Locate an api.weather.com API key and configure your settings, then run!
 5. OPTIONAL - Drop any mp3 files you want played by the simulator into the included "music" folder
-
-------------
-
-## Installation Instructions (EXE): NOT IN USE RIGHT NOW
-1. Download and run the [latest release](https://github.com/MistWeatherMedia/WeatherSTAR-3000-Java/releases) .exe installer file
-2. Locate the installed program and run it.
-3. Locate an api.weather.com API key and configure your settings, then run!
-4. OPTIONAL - Drop any mp3 files you want played by the simulator into the "music" folder located in the program's installed directory (usually in C:/Program Files/WeatherSTAR 3000/app)
 
 ------------
 
